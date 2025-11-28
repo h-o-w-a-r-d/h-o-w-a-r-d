@@ -11,7 +11,7 @@
 <!-- 2. 個人簡介 -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=600&section=header&text=Hi%20👋,%20我是Howard%20Zhen&fontSize=75&desc=我是一位對編程充滿熱情的高中學生。&descSize=35&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20👋,%20我是Howard%20Zhen&fontSize=75&desc=我是一位對編程充滿熱情的高中學生。&descSize=35&descAlignY=65)
 
 </div>
 

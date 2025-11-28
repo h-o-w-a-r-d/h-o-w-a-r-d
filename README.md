@@ -1,8 +1,9 @@
 <!-- 1. 頁首橫幅 -->
 <p align="center">
   <a href="https://github.com/h-o-w-a-r-d">
-    <!-- 建議尺寸：1280x300，您可以自行設計或使用線上工具製作 -->
+    <!--
     <img src="https://raw.githubusercontent.com/h-o-w-a-r-d/h-o-w-a-r-d/refs/heads/main/banner.png" alt="個人化橫幅" width="900"/>
+     -->
   </a>
 </p>
 

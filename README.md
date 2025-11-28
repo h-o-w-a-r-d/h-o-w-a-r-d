@@ -7,18 +7,12 @@
 </p>
 
 
-
 <!-- 2. 個人簡介 -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=900&section=header&text=Hi%20👋,%20我是Howard%20Zhen&fontSize=75)
-<h3 align="center">我是一位對編程充滿熱情的高中學生。</h3>
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=600&section=header&text=Hi%20👋,%20我是Howard%20Zhen&fontSize=75&desc=我是一位對編程充滿熱情的高中學生。&descSize=35&descAlignY=60)
 
-
-<p align="center">
-  我的網站
-  <a href="https://not_available_now/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="個人網站(目前不可用)"/>
-  </a>
-</p>
+</div>
 
 ---
 
@@ -31,3 +25,11 @@
   能給AI下明確、具體指令、約束，讓它的輸出結果比較不會偏離原始意圖、目的
 </p>
 
+---
+
+<p align="center">
+  我的網站(目前不可用)
+  <a href="https://not_available_now/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="個人網站(目前不可用)"/>
+  </a>
+</p>

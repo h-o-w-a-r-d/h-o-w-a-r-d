@@ -20,9 +20,9 @@
 ## 🎈 關於我 (About Me)
 
 <p align="left">
-  一個嚮往編程的高中學生\n
-  會寫一點python、c++以及幾乎忘記的html\n
-  其他程式語言：JavaScript看得懂一點與CSS基本看得懂\n
+  一個嚮往編程的高中學生<br>
+  會寫一點python、c++以及幾乎忘記的html<br>
+  其他程式語言：JavaScript看得懂一點與CSS基本看得懂<br>
   也會用vibe coding編寫程式碼
 </p>
 

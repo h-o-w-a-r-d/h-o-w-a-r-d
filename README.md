@@ -20,10 +20,10 @@
 ## 🎈 關於我 (About Me)
 
 <p align="left">
-  一個嚮往編程的高中學生<br>  
-  會寫一點python、c++以及幾乎忘記的html<br>
-  對於其他還不會的程式語言，例：JavaScript(看得懂一點)、CSS(大致看得懂)等，會使用AI編寫<br>
-  能用AI並使輸出內容不會偏離目的或會錯意
+  一個嚮往編程的高中學生\n
+  會寫一點python、c++以及幾乎忘記的html\n
+  其他程式語言：JavaScript看得懂一點與CSS基本看得懂\n
+  也會用vibe coding編寫程式碼
 </p>
 
 ---
